@@ -5,7 +5,7 @@
 
 ###
 
-- 🔭 I’m currently working on [SmKBOT](https://github.com/GabrielSmK/python-ai-chatbot)
+- 🔭 I’m currently working on [SmKBOT](https://github.com/GabrielSmK/python-ai-chatbot) and [Helvete](https://github.com/GabrielSmK/loja-discos)
 
 - 🌱 I’m currently learning **Python, AI and React**
 
